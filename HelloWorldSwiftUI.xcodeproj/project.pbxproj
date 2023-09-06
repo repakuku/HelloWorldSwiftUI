@@ -11,6 +11,7 @@
 		0763352B2AA8FABC005CA27A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0763352A2AA8FABC005CA27A /* ContentView.swift */; };
 		0763352D2AA8FABC005CA27A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0763352C2AA8FABC005CA27A /* Assets.xcassets */; };
 		076335302AA8FABC005CA27A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0763352F2AA8FABC005CA27A /* Preview Assets.xcassets */; };
+		076335372AA90E07005CA27A /* SwiftLogoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 076335362AA90E07005CA27A /* SwiftLogoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		0763352A2AA8FABC005CA27A /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		0763352C2AA8FABC005CA27A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0763352F2AA8FABC005CA27A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		076335362AA90E07005CA27A /* SwiftLogoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftLogoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				076335282AA8FABC005CA27A /* HelloWorldSwiftUIApp.swift */,
 				0763352A2AA8FABC005CA27A /* ContentView.swift */,
+				076335362AA90E07005CA27A /* SwiftLogoView.swift */,
 				0763352C2AA8FABC005CA27A /* Assets.xcassets */,
 				0763352E2AA8FABC005CA27A /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0763352B2AA8FABC005CA27A /* ContentView.swift in Sources */,
+				076335372AA90E07005CA27A /* SwiftLogoView.swift in Sources */,
 				076335292AA8FABC005CA27A /* HelloWorldSwiftUIApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
